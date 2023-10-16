@@ -1,4 +1,6 @@
 # pbiometria_arduino
+### Descripción:
+Reposotorio para el código C++ de Arduino del proyecto.
 ### Instrucciones de uso:
 - **1.** Descargar y extrar el .zip del repositorio.
 
