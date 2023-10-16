@@ -1,3 +1,2 @@
 # pbiometria_arduino
-
-#### asd
+### Como usar:
